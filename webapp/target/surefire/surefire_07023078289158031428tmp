@@ -1,0 +1,8 @@
+#surefire_0
+#Mon Oct 03 16:06:24 CEST 2016
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\aa_Studium\\MA\\FindLunch von Github\\findlunch-master\\webapp
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Max\\.m2\\repository
+basedir=C\:\\aa_Studium\\MA\\FindLunch von Github\\findlunch-master\\webapp
+test=edu.hm.cs.projektstudium.findlunch.webapp.controller.rest.PushNotificationRestControllerIT

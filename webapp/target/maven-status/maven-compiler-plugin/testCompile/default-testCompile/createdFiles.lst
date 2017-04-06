@@ -1,0 +1,10 @@
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\KitchenTypeRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\DayOfWeekRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\LoginUserRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\RestaurantTypeRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\FavoritesRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\OfferRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\RegisterUserRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\PushNotificationRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\RestaurantRestControllerIT.class
+edu\hm\cs\projektstudium\findlunch\webapp\controller\rest\OfferPhotoRestControllerIT.class
